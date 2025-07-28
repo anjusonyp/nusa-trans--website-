@@ -24,7 +24,7 @@
 
     <section>
       <h2>Kontak Kami</h2>
-      <p>📞 0812-3456-7890<br />📍 Jakarta, Indonesia</p>
+      <p>📞 081383631556<br />📍 Medan, Indonesia</p>
     </section>
   </main>
 
